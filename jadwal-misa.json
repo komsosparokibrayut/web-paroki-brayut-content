@@ -26,7 +26,8 @@
           "bahasa": "Jawa"
         }
       ],
-      "isSuspended": false
+      "isSuspended": true,
+      "suspendedReason": ""
     },
     {
       "id": "gereja-karanglo",
