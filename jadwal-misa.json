@@ -85,7 +85,16 @@
       "id": "gereja-dukuh",
       "name": "Gereja St. Fransiskus Xaverius Dukuh",
       "location": "Dukuh, Pandowoharjo, Sleman",
-      "schedules": []
+      "schedules": [
+        {
+          "day": "Sabtu Minggu Pertama",
+          "times": [
+            "18.00"
+          ],
+          "kategori": "Misa Mingguan",
+          "notes": "Misa Bahasa Jawa"
+        }
+      ]
     }
   ],
   "specialMasses": []
