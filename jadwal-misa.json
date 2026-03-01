@@ -2,40 +2,170 @@
     "churches": [
         {
             "id": "gereja-paroki",
-            "name": "Gereja St. Yusup Tambakrejo (Paroki)",
+            "name": "Gereja St. Yusup Tambakrejo (Gereja Paroki)",
             "location": "Tambakrejo, Sariharjo, Ngaglik, Sleman",
-            "schedules": []
+            "isSuspended": true,
+            "suspendedReason": "Ditiadakan untuk sementara waktu karena terdapat pembangunan gereja.",
+            "weeklySchedules": []
         },
         {
             "id": "gereja-kayunan",
             "name": "Gereja St. Petrus Kayunan",
             "location": "Kayunan, Donoharjo, Ngaglik, Sleman",
-            "schedules": []
-        },
-        {
-            "id": "gereja-ngelo",
-            "name": "Gereja St. Venantius Ngelo",
-            "location": "Ngelo, Pandowoharjo, Sleman",
-            "schedules": []
+            "weeklySchedules": [
+                {
+                    "week": 1,
+                    "day": "Sabtu",
+                    "time": "16.00",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 3,
+                    "day": "Sabtu",
+                    "time": "16.00",
+                    "bahasa": "Jawa"
+                }
+            ]
         },
         {
             "id": "gereja-karanglo",
-            "name": "Gereja St. Yosef Karanglo",
+            "name": "Gereja St. Yosef Karanglo (Gereja Pusat Sementara)",
             "location": "Karanglo, Donoharjo, Ngaglik, Sleman",
-            "schedules": []
+            "weeklySchedules": [
+                {
+                    "week": 1,
+                    "day": "Sabtu",
+                    "time": "16.00",
+                    "bahasa": "Jawa"
+                },
+                {
+                    "week": 2,
+                    "day": "Sabtu",
+                    "time": "16.00",
+                    "bahasa": "Jawa"
+                },
+                {
+                    "week": 3,
+                    "day": "Sabtu",
+                    "time": "16.00",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 4,
+                    "day": "Sabtu",
+                    "time": "16.00",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 5,
+                    "day": "Sabtu",
+                    "time": "16.00",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 1,
+                    "day": "Minggu",
+                    "time": "07.30",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 2,
+                    "day": "Minggu",
+                    "time": "07.30",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 3,
+                    "day": "Minggu",
+                    "time": "07.30",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 4,
+                    "day": "Minggu",
+                    "time": "07.30",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 5,
+                    "day": "Minggu",
+                    "time": "07.30",
+                    "bahasa": "Jawa"
+                }
+            ]
         },
         {
             "id": "gereja-karangkepuh",
-            "name": "Gereja St. Yohanes Rasul Karangkepuh",
+            "name": "Gereja St. Yohanes Penginjil Karangkepuh",
             "location": "Karang Kepuh, Pandowoharjo, Sleman",
-            "schedules": []
+            "weeklySchedules": [
+                {
+                    "week": 2,
+                    "day": "Minggu",
+                    "time": "17.00",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 4,
+                    "day": "Minggu",
+                    "time": "17.00",
+                    "bahasa": "Jawa"
+                }
+            ]
         },
         {
             "id": "gereja-dukuh",
             "name": "Gereja St. Fransiskus Xaverius Dukuh",
             "location": "Dukuh, Pandowoharjo, Sleman",
-            "schedules": []
+            "weeklySchedules": [
+                {
+                    "week": 1,
+                    "day": "Sabtu",
+                    "time": "18.00",
+                    "bahasa": "Jawa"
+                },
+                {
+                    "week": 3,
+                    "day": "Sabtu",
+                    "time": "18.00",
+                    "bahasa": "Indonesia"
+                }
+            ]
+        },
+        {
+            "id": "gereja-ngelo",
+            "name": "Gereja St. Venantius Ngelo",
+            "location": "Ngelo, Pandowoharjo, Sleman",
+            "weeklySchedules": [
+                {
+                    "week": 2,
+                    "day": "Sabtu",
+                    "time": "18.00",
+                    "bahasa": "Indonesia"
+                },
+                {
+                    "week": 4,
+                    "day": "Sabtu",
+                    "time": "18.00",
+                    "bahasa": "Jawa"
+                }
+            ]
         }
     ],
-    "specialMasses": []
+    "specialMasses": [
+        {
+            "id": "jumat-pertama",
+            "name": "Misa Jumat Pertama",
+            "time": "18.00 WIB",
+            "location": "Jadwal berpindah setiap bulan",
+            "description": "Misa Jumat Pertama dengan jadwal berpindah setiap bulan, pukul 18.00 WIB bahasa Indonesia."
+        },
+        {
+            "id": "misa-harian",
+            "name": "Misa Harian",
+            "time": "05.30 WIB",
+            "location": "Gereja St. Yosef Karanglo",
+            "description": "Misa harian di Karanglo pukul 05.30 bahasa Indonesia."
+        }
+    ]
 }
