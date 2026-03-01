@@ -93,6 +93,14 @@
           ],
           "kategori": "Misa Mingguan",
           "notes": "Misa Bahasa Jawa"
+        },
+        {
+          "day": "Sabtu Minggu Ketiga",
+          "times": [
+            "18.00"
+          ],
+          "kategori": "Misa Mingguan",
+          "notes": "Misa Bahasa Indonesia"
         }
       ]
     }
