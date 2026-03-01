@@ -40,39 +40,34 @@
           "bahasa": "Jawa"
         },
         {
-          "week": 2,
-          "day": "Sabtu",
-          "time": "16.00",
-          "bahasa": "Jawa"
-        },
-        {
-          "week": 3,
-          "day": "Sabtu",
-          "time": "16.00",
-          "bahasa": "Indonesia"
-        },
-        {
-          "week": 4,
-          "day": "Sabtu",
-          "time": "16.00",
-          "bahasa": "Indonesia"
-        },
-        {
-          "week": 5,
-          "day": "Sabtu",
-          "time": "16.00",
-          "bahasa": "Indonesia"
-        },
-        {
           "week": 1,
           "day": "Minggu",
           "time": "07.30",
           "bahasa": "Indonesia"
         },
         {
+          "week": 1,
+          "day": "Minggu",
+          "time": "16.00",
+          "bahasa": "Indonesia",
+          "date": "2026-03-15"
+        },
+        {
+          "week": 2,
+          "day": "Sabtu",
+          "time": "16.00",
+          "bahasa": "Jawa"
+        },
+        {
           "week": 2,
           "day": "Minggu",
           "time": "07.30",
+          "bahasa": "Indonesia"
+        },
+        {
+          "week": 3,
+          "day": "Sabtu",
+          "time": "16.00",
           "bahasa": "Indonesia"
         },
         {
@@ -83,8 +78,20 @@
         },
         {
           "week": 4,
+          "day": "Sabtu",
+          "time": "16.00",
+          "bahasa": "Indonesia"
+        },
+        {
+          "week": 4,
           "day": "Minggu",
           "time": "07.30",
+          "bahasa": "Indonesia"
+        },
+        {
+          "week": 5,
+          "day": "Sabtu",
+          "time": "16.00",
           "bahasa": "Indonesia"
         },
         {
