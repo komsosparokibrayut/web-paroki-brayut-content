@@ -1,16 +1,5 @@
 [
   {
-    "id": "db3e95d1-9f7b-45a9-823f-f174d1105a19",
-    "title": "Testing kegiatan 1",
-    "date": "2026-01-12",
-    "time": "08:00",
-    "location": "test tempat",
-    "description": "testing kegiatan",
-    "category": "Kegiatan",
-    "imageUrl": "https://images.unsplash.com/photo-1767517734918-d0969751b6b6?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "linkUrl": ""
-  },
-  {
     "id": "3ccf9630-ee58-492c-baed-7611222e24e4",
     "title": "Past event tetst",
     "date": "2026-01-01",
@@ -20,14 +9,14 @@
     "category": "Kegiatan"
   },
   {
-    "id": "dummy-cta-test",
-    "title": "Pendaftaran Lomba Paduan Suara",
-    "date": "2026-01-15",
-    "time": "09:00",
-    "location": "Aula Paroki",
-    "description": "Lomba paduan suara antar wilayah dalam rangka HUT Paroki.\nedited*",
+    "id": "db3e95d1-9f7b-45a9-823f-f174d1105a19",
+    "title": "Testing kegiatan 1",
+    "date": "2026-01-12",
+    "time": "08:00",
+    "location": "test tempat",
+    "description": "testing kegiatan",
     "category": "Kegiatan",
-    "imageUrl": "https://images.unsplash.com/photo-1584448141569-69f342da535c?q=80&w=2070&auto=format&fit=crop",
-    "linkUrl": "https://forms.google.com/example"
+    "imageUrl": "https://images.unsplash.com/photo-1767517734918-d0969751b6b6?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "linkUrl": ""
   }
 ]
