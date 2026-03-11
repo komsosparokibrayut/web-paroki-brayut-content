@@ -9,7 +9,8 @@
       "Warta Paroki"
     ],
     "banner": "/images/inline-whatsapp-image-2026-03-08-at-10-40-22-am-1773185794059-i5b4rl.webp",
-    "published": true
+    "published": true,
+    "updatedAt": "2026-03-11T00:11:15.462Z"
   },
   "content": {
     "ops": [
@@ -31,7 +32,7 @@
       {
         "attributes": {
           "align": "center",
-          "header": 5
+          "header": 6
         },
         "insert": "\n"
       },
@@ -51,26 +52,12 @@
           "color": "#888888",
           "italic": true
         },
-        "insert": "\"20 PAMJA Paroki Brayut melaksanakan pelatihan berbaris di lapangan parkir Gereja St. Venantius Ngelo."
+        "insert": "\"20 PAMJA Paroki Brayut melaksanakan pelatihan berbaris di lapangan parkir Gereja St. Venantius Ngelo.Sleman, 28 Februari 2026.\""
       },
       {
         "attributes": {
           "align": "center",
-          "header": 5
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "color": "#888888",
-          "italic": true
-        },
-        "insert": "Sleman, 28 Februari 2026.\""
-      },
-      {
-        "attributes": {
-          "align": "center",
-          "header": 5
+          "header": 6
         },
         "insert": "\n"
       },
