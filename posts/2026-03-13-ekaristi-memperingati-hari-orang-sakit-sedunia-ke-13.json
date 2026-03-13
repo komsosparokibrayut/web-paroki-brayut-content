@@ -11,12 +11,21 @@
     ],
     "banner": "/images/inline-whatsapp-image-2026-03-11-at-11-18-33-am-1773380596592-hxqfhp.webp",
     "published": true,
-    "updatedAt": "2026-03-13T06:30:11.572Z"
+    "updatedAt": "2026-03-13T06:33:25.507Z"
   },
   "content": {
     "ops": [
       {
-        "insert": "Meski tertunda pelaksanaannya, dalam suasana hikmat bersama dihadiri 302 umat lansia dan yang sakit. Paroki Santo Yohanes Paulus II Brayut diperingati dengan ekaristi kudus sebagai wujud perhatian kerohanian, bakti, dan penghormatan secara khusus kepada keluarga lanjut usia dan sakit.\n\n"
+        "insert": "Meski tertunda pelaksanaannya, dalam suasana hikmat bersama dihadiri 302 umat lansia dan yang sakit. Paroki Santo Yohanes Paulus II Brayut diperingati dengan ekaristi kudus sebagai wujud perhatian kerohanian, bakti, dan penghormatan secara khusus kepada keluarga lanjut usia dan sakit."
+      },
+      {
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
       },
       {
         "insert": {
@@ -49,7 +58,13 @@
         "insert": " "
       },
       {
-        "insert": "\n\n"
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
       },
       {
         "attributes": {
@@ -86,7 +101,16 @@
         "insert": " "
       },
       {
-        "insert": "melalui teladan perhatian kepada mereka yang menderita, terutama orang-orang sakit. Karena kasih sejati tidak bersifat pasif. Melayani sesama berarti mengasihi Allah melalui perbuatan nyata. \n\n"
+        "insert": "melalui teladan perhatian kepada mereka yang menderita, terutama orang-orang sakit. Karena kasih sejati tidak bersifat pasif. Melayani sesama berarti mengasihi Allah melalui perbuatan nyata. "
+      },
+      {
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
       },
       {
         "insert": {
@@ -129,7 +153,16 @@
         "insert": "“Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.”"
       },
       {
-        "insert": " Pesan ini mengajak umat untuk menyadari bahwa setiap langkah kita di kehidupan akan selalu dalam penyertaan Tuhan menjadi kekuatan utama yang tak berkesudahan.\n\n"
+        "insert": " Pesan ini mengajak umat untuk menyadari bahwa setiap langkah kita di kehidupan akan selalu dalam penyertaan Tuhan menjadi kekuatan utama yang tak berkesudahan."
+      },
+      {
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
       },
       {
         "insert": {
@@ -153,7 +186,16 @@
         "insert": "\n"
       },
       {
-        "insert": "\nMelengkapi kegiatan peringatan Hari Orang Sakit kali ini, juga diadakan bakti sosial pemeriksaan kesehatan tensi, gula darah, dan asam urat yang dilaksanakan oleh Tim Pelaksana Kesehatan Paroki Brayut di bawah koordinasi Oklih Hepi Prawoko.\n\n"
+        "insert": "\nMelengkapi kegiatan peringatan Hari Orang Sakit kali ini, juga diadakan bakti sosial pemeriksaan kesehatan tensi, gula darah, dan asam urat yang dilaksanakan oleh Tim Pelaksana Kesehatan Paroki Brayut di bawah koordinasi Oklih Hepi Prawoko."
+      },
+      {
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
       },
       {
         "insert": {
@@ -186,6 +228,9 @@
         "insert": "(@ds)"
       },
       {
+        "attributes": {
+          "align": "justify"
+        },
         "insert": "\n"
       }
     ]
