@@ -10,7 +10,7 @@
     ],
     "banner": "/images/inline-whatsapp-image-2026-03-08-at-10-40-22-am-1773188026788-ozthjr.webp",
     "published": true,
-    "updatedAt": "2026-03-11T00:14:04.245Z"
+    "updatedAt": "2026-03-13T06:14:17.188Z"
   },
   "content": {
     "ops": [
@@ -27,12 +27,11 @@
           "color": "#888888",
           "italic": true
         },
-        "insert": "\"Penyuluhan hukum yang diberikan oleh Kepala Kepolisian RI Sektor Sleman, Kompol Eka Andy Nursanto, S.H., M.H., yang bertempat di ruang pertemuan Gereja St. Venantius Ngelo. Sleman, 28 Februari 2026.\""
+        "insert": "\"Penyuluhan hukum yang diberikan oleh Kepala Kepolisian RI Sektor Sleman, Kompol Eka Andy Nursanto, S.H., M.H., yang bertempat di ruang pertemuan Gereja St. Venantius Ngelo.\" Sleman, 28 Februari 2026."
       },
       {
         "attributes": {
-          "align": "center",
-          "header": 6
+          "align": "center"
         },
         "insert": "\n"
       },
@@ -52,12 +51,11 @@
           "color": "#888888",
           "italic": true
         },
-        "insert": "\"20 PAMJA Paroki Brayut melaksanakan pelatihan berbaris di lapangan parkir Gereja St. Venantius Ngelo.Sleman, 28 Februari 2026.\""
+        "insert": "\"20 PAMJA Paroki Brayut melaksanakan pelatihan berbaris di lapangan parkir Gereja St. Venantius Ngelo.\" Sleman, 28 Februari 2026."
       },
       {
         "attributes": {
-          "align": "center",
-          "header": 6
+          "align": "center"
         },
         "insert": "\n"
       },
