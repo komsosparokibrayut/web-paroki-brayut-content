@@ -9,229 +9,384 @@
       "Gereja",
       "Warta Paroki"
     ],
-    "banner": "/images/inline-whatsapp-image-2026-03-11-at-11-18-33-am-1773380596592-hxqfhp.webp",
+    "banner": "https://raw.githubusercontent.com/komsosparokibrayut/web-paroki-brayut-content/main/images/inline-whatsapp-image-2026-03-11-at-11-18-33-am-1773380596592-hxqfhp.webp",
     "published": true,
     "updatedAt": "2026-03-13T06:33:25.507Z"
   },
   "content": {
-    "ops": [
+    "type": "doc",
+    "content": [
       {
-        "insert": "Meski tertunda pelaksanaannya, dalam suasana hikmat bersama dihadiri 302 umat lansia dan yang sakit. Paroki Santo Yohanes Paulus II Brayut diperingati dengan ekaristi kudus sebagai wujud perhatian kerohanian, bakti, dan penghormatan secara khusus kepada keluarga lanjut usia dan sakit."
-      },
-      {
-        "attributes": {
-          "align": "justify"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "text",
+            "text": "Meski tertunda pelaksanaannya, dalam suasana hikmat bersama dihadiri 302 umat lansia dan yang sakit. Paroki Santo Yohanes Paulus II Brayut diperingati dengan ekaristi kudus sebagai wujud perhatian kerohanian, bakti, dan penghormatan secara khusus kepada keluarga lanjut usia dan sakit."
+          }
+        ]
       },
       {
-        "insert": "\n"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": {
-          "image": "/images/inline-whatsapp-image-2026-03-11-at-11-18-44-am-1773382780038-b0tq5n.webp"
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/komsosparokibrayut/web-paroki-brayut-content/main/images/inline-whatsapp-image-2026-03-11-at-11-18-44-am-1773382780038-b0tq5n.webp",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
         }
       },
       {
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "color": "#888888",
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
         },
-        "insert": "\"Rama Simon Petrus Kaize, MSc. sedang memberkati umat lansia yang hadir.\" Sleman, 8 Maret 2026."
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "\"Rama Simon Petrus Kaize, MSc. sedang memberkati umat lansia yang hadir.\" Sleman, 8 Maret 2026."
+          }
+        ]
       },
       {
-        "attributes": {
-          "align": "center"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": "\nEkaristi kali ini didampingi konselebran Rama Troyani Rishard Kalengkongan, Pr., dan Rama Simon Petrus Kaize, MSc. Dalam homilinya, Rama Benedicktus Hanjar Krisnawan, Pr., selebran utama dalam ekaristi ini, menyampaikan pesan amanat Paus Leo XIV sesuai tema peringatan Hari Orang Sakit Sedunia 2026, mengajak seluruh umat yang hadir dalam perayaan ekaristi untuk kembali merenungkan makna belas kasih sejati melalui perumpamaan orang Samaria yang baik hati."
-      },
-      {
-        "attributes": {
-          "color": "#0a0a0a"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
         },
-        "insert": " "
+        "content": [
+          {
+            "type": "text",
+            "text": "Ekaristi kali ini didampingi konselebran Rama Troyani Rishard Kalengkongan, Pr., dan Rama Simon Petrus Kaize, MSc. Dalam homilinya, Rama Benedicktus Hanjar Krisnawan, Pr., selebran utama dalam ekaristi ini, menyampaikan pesan amanat Paus Leo XIV sesuai tema peringatan Hari Orang Sakit Sedunia 2026, mengajak seluruh umat yang hadir dalam perayaan ekaristi untuk kembali merenungkan makna belas kasih sejati melalui perumpamaan orang Samaria yang baik hati."
+          }
+        ]
       },
       {
-        "attributes": {
-          "align": "justify"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "bold": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
         },
-        "insert": "\"Belarasa Orang Samaria: Mengasihi dengan Menanggung Derita Orang Lain\""
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "\"Belarasa Orang Samaria: Mengasihi dengan Menanggung Derita Orang Lain\""
+          }
+        ]
       },
       {
-        "attributes": {
-          "align": "center"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "(Luk. 10:25-37)"
+          }
+        ]
       },
       {
-        "attributes": {
-          "color": "#888888",
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": "(Luk. 10:25-37)"
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "attributes": {
-          "align": "center"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "text",
+            "text": "Berdasarkan kutipan tersebut, Rama Benedicktus Hanjar Krisnawan, Pr., mengajak umat untuk tidak hanya sekadar bersimpati, tetapi benar-benar terlibat dalam penderitaan sesama"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "melalui teladan perhatian kepada mereka yang menderita, terutama orang-orang sakit. Karena kasih sejati tidak bersifat pasif. Melayani sesama berarti mengasihi Allah melalui perbuatan nyata."
+          }
+        ]
       },
       {
-        "insert": "\nBerdasarkan kutipan tersebut, Rama Benedicktus Hanjar Krisnawan, Pr., mengajak umat untuk tidak hanya sekadar bersimpati, tetapi benar-benar terlibat dalam penderitaan sesama"
-      },
-      {
-        "attributes": {
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": " "
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": "melalui teladan perhatian kepada mereka yang menderita, terutama orang-orang sakit. Karena kasih sejati tidak bersifat pasif. Melayani sesama berarti mengasihi Allah melalui perbuatan nyata. "
-      },
-      {
-        "attributes": {
-          "align": "justify"
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "\n"
-      },
-      {
-        "insert": {
-          "image": "/images/inline-whatsapp-image-2026-03-11-at-11-18-43-am-1773382804525-2m9yyr.webp"
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/komsosparokibrayut/web-paroki-brayut-content/main/images/inline-whatsapp-image-2026-03-11-at-11-18-43-am-1773382804525-2m9yyr.webp",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
         }
       },
       {
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "color": "#888888",
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
         },
-        "insert": "\"Rama Benedicktus Hanjar Krisnawan, Pr., sedang berhomili di mimbar, bersama konselebran Rama Simon Petrus Kaize, MSc. (Sisi kiri langsung dari Rama Hanjar) dan Rama Troyani Rishard Kalengkongan, Pr. (Paling kiri dari Rama Hanjar).\" Sleman, 8 Maret 2026."
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "\"Rama Benedicktus Hanjar Krisnawan, Pr., sedang berhomili di mimbar, bersama konselebran Rama Simon Petrus Kaize, MSc. (Sisi kiri langsung dari Rama Hanjar) dan Rama Troyani Rishard Kalengkongan, Pr. (Paling kiri dari Rama Hanjar).\" Sleman, 8 Maret 2026."
+          }
+        ]
       },
       {
-        "attributes": {
-          "align": "center"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": "\nMenutup perayaan Ekaristi, Joko Krismanto selaku Ketua Pelaksana sekaligus Kepala Tim Pelayanan (Katimpel) Pengembangan Sosial Ekonomi (PSE), menyampaikan sebuah pesan peneguhan. Beliau mengutip ayat dari Injil Matius "
-      },
-      {
-        "attributes": {
-          "color": "#888888",
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
         },
-        "insert": "(28:20b)"
+        "content": [
+          {
+            "type": "text",
+            "text": "Menutup perayaan Ekaristi, Joko Krismanto selaku Ketua Pelaksana sekaligus Kepala Tim Pelayanan (Katimpel) Pengembangan Sosial Ekonomi (PSE), menyampaikan sebuah pesan peneguhan. Beliau mengutip ayat dari Injil Matius "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "(28:20b)"
+          },
+          {
+            "type": "text",
+            "text": ": "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "“Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.”"
+          },
+          {
+            "type": "text",
+            "text": " Pesan ini mengajak umat untuk menyadari bahwa setiap langkah kita di kehidupan akan selalu dalam penyertaan Tuhan menjadi kekuatan utama yang tak berkesudahan."
+          }
+        ]
       },
       {
-        "insert": ": "
-      },
-      {
-        "attributes": {
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": "“Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.”"
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": " Pesan ini mengajak umat untuk menyadari bahwa setiap langkah kita di kehidupan akan selalu dalam penyertaan Tuhan menjadi kekuatan utama yang tak berkesudahan."
-      },
-      {
-        "attributes": {
-          "align": "justify"
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "\n"
-      },
-      {
-        "insert": {
-          "image": "/images/inline-whatsapp-image-2026-03-11-at-11-18-45-am-1773382828315-uhzov9.webp"
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/komsosparokibrayut/web-paroki-brayut-content/main/images/inline-whatsapp-image-2026-03-11-at-11-18-45-am-1773382828315-uhzov9.webp",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
         }
       },
       {
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "color": "#888888",
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
         },
-        "insert": "\"Joko Krismanto, Katimpel Pengembangan Sosial Ekonomi (PSE) sedang memberikan kata penutupan pada Misa Memperingati Hari Orang Sakit Sedunia ke-13.\" Sleman, 8 Maret 2026."
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "\"Joko Krismanto, Katimpel Pengembangan Sosial Ekonomi (PSE) sedang memberikan kata penutupan pada Misa Memperingati Hari Orang Sakit Sedunia ke-13.\" Sleman, 8 Maret 2026."
+          }
+        ]
       },
       {
-        "attributes": {
-          "align": "center"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": "\nMelengkapi kegiatan peringatan Hari Orang Sakit kali ini, juga diadakan bakti sosial pemeriksaan kesehatan tensi, gula darah, dan asam urat yang dilaksanakan oleh Tim Pelaksana Kesehatan Paroki Brayut di bawah koordinasi Oklih Hepi Prawoko."
-      },
-      {
-        "attributes": {
-          "align": "justify"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "text",
+            "text": "Melengkapi kegiatan peringatan Hari Orang Sakit kali ini, juga diadakan bakti sosial pemeriksaan kesehatan tensi, gula darah, dan asam urat yang dilaksanakan oleh Tim Pelaksana Kesehatan Paroki Brayut di bawah koordinasi Oklih Hepi Prawoko."
+          }
+        ]
       },
       {
-        "insert": "\n"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": {
-          "image": "/images/inline-whatsapp-image-2026-03-11-at-11-18-46-am-1773382852781-h8w9bi.webp"
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/komsosparokibrayut/web-paroki-brayut-content/main/images/inline-whatsapp-image-2026-03-11-at-11-18-46-am-1773382852781-h8w9bi.webp",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
         }
       },
       {
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "color": "#888888",
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
         },
-        "insert": "\"Bakti sosial pemeriksaan kesehatan oleh Tim Pelaksana Kesehatan Paroki Brayut yang diadakan secara gratis untuk seluruh umat lansia yang hadir.\" Sleman, 8 Maret 2026."
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "\"Bakti sosial pemeriksaan kesehatan oleh Tim Pelaksana Kesehatan Paroki Brayut yang diadakan secara gratis untuk seluruh umat lansia yang hadir.\" Sleman, 8 Maret 2026."
+          }
+        ]
       },
       {
-        "attributes": {
-          "align": "center"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
         },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
       },
       {
-        "insert": "\nRangkaian ekaristi dan acara bakti sosial pemeriksaan kesehatan diakhiri dengan ramah tamah dalam suasana kekeluargaan dan penuh kegembiraan para sesepuh Paroki Brayut dan yang sakit. "
-      },
-      {
-        "attributes": {
-          "italic": true
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
         },
-        "insert": "(@ds)"
-      },
-      {
-        "attributes": {
-          "align": "justify"
-        },
-        "insert": "\n"
+        "content": [
+          {
+            "type": "text",
+            "text": "Rangkaian ekaristi dan acara bakti sosial pemeriksaan kesehatan diakhiri dengan ramah tamah dalam suasana kekeluargaan dan penuh kegembiraan para sesepuh Paroki Brayut dan yang sakit. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "(@ds)"
+          }
+        ]
       }
     ]
   }
