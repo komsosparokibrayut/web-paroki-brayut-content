@@ -10,7 +10,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:50:50.580Z"
+    "modified_at": "2026-05-11T12:51:23.238Z"
   },
   {
     "id": "gereja-kayunan",
@@ -23,7 +23,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:50:50.580Z"
+    "modified_at": "2026-05-11T12:51:23.238Z"
   },
   {
     "id": "gereja-ngelo",
@@ -33,10 +33,11 @@
     "kategori": "Gereja Wilayah",
     "koordinat": "https://www.google.com/maps?q=-7.693161,110.367827",
     "gallery": [],
+    "wilayah_id": "2bd2c7ab-0dc0-4bf1-8cb3-8be333c90146",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:50:50.580Z",
+    "created_at": "2026-05-11T12:51:23.238Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:50:50.580Z"
+    "modified_at": "2026-05-11T12:51:23.238Z"
   },
   {
     "id": "gereja-karanglo",
@@ -50,7 +51,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:50:50.580Z"
+    "modified_at": "2026-05-11T12:51:23.238Z"
   },
   {
     "id": "gereja-karangkepuh",
@@ -63,7 +64,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:50:50.580Z"
+    "modified_at": "2026-05-11T12:51:23.238Z"
   },
   {
     "id": "gereja-dukuh",
@@ -76,6 +77,6 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:50:50.580Z"
+    "modified_at": "2026-05-11T12:51:23.238Z"
   }
 ]
