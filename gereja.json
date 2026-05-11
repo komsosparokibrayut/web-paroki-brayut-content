@@ -10,7 +10,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:23.238Z"
+    "modified_at": "2026-05-11T12:51:36.698Z"
   },
   {
     "id": "gereja-kayunan",
@@ -23,7 +23,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:23.238Z"
+    "modified_at": "2026-05-11T12:51:36.698Z"
   },
   {
     "id": "gereja-ngelo",
@@ -35,9 +35,9 @@
     "gallery": [],
     "wilayah_id": "2bd2c7ab-0dc0-4bf1-8cb3-8be333c90146",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:51:23.238Z",
+    "created_at": "2026-05-11T12:51:36.698Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:23.238Z"
+    "modified_at": "2026-05-11T12:51:36.698Z"
   },
   {
     "id": "gereja-karanglo",
@@ -47,11 +47,11 @@
     "kategori": "Gereja Wilayah",
     "koordinat": "https://www.google.com/maps?q=-7.711685,110.375894",
     "gallery": [],
-    "wilayah_id": "2bd2c7ab-0dc0-4bf1-8cb3-8be333c90146",
+    "wilayah_id": "8d5250fb-50a6-4ce8-a5de-f3f13935b907",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:50:50.580Z",
+    "created_at": "2026-05-11T12:51:36.698Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:23.238Z"
+    "modified_at": "2026-05-11T12:51:36.698Z"
   },
   {
     "id": "gereja-karangkepuh",
@@ -64,7 +64,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:23.238Z"
+    "modified_at": "2026-05-11T12:51:36.698Z"
   },
   {
     "id": "gereja-dukuh",
@@ -77,6 +77,6 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:23.238Z"
+    "modified_at": "2026-05-11T12:51:36.698Z"
   }
 ]
