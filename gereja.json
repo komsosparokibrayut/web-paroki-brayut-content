@@ -7,10 +7,11 @@
     "kategori": "Gereja Paroki",
     "koordinat": "https://maps.app.goo.gl/a4PYVvPPrMChWLhc9",
     "gallery": [],
+    "wilayah_id": "fe68ba2d-f965-4493-ae10-3eaed8a1c2f5",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:50:50.580Z",
+    "created_at": "2026-05-11T12:52:13.947Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:52:03.215Z"
+    "modified_at": "2026-05-11T12:52:13.947Z"
   },
   {
     "id": "gereja-kayunan",
@@ -22,9 +23,9 @@
     "gallery": [],
     "wilayah_id": "6c21ccfb-76e8-4686-a656-41c340c57647",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:52:03.215Z",
+    "created_at": "2026-05-11T12:52:13.947Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:52:03.215Z"
+    "modified_at": "2026-05-11T12:52:13.947Z"
   },
   {
     "id": "gereja-ngelo",
@@ -36,9 +37,9 @@
     "gallery": [],
     "wilayah_id": "2bd2c7ab-0dc0-4bf1-8cb3-8be333c90146",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:52:03.215Z",
+    "created_at": "2026-05-11T12:52:13.947Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:52:03.215Z"
+    "modified_at": "2026-05-11T12:52:13.947Z"
   },
   {
     "id": "gereja-karanglo",
@@ -50,9 +51,9 @@
     "gallery": [],
     "wilayah_id": "8d5250fb-50a6-4ce8-a5de-f3f13935b907",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:52:03.215Z",
+    "created_at": "2026-05-11T12:52:13.947Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:52:03.215Z"
+    "modified_at": "2026-05-11T12:52:13.947Z"
   },
   {
     "id": "gereja-karangkepuh",
@@ -64,9 +65,9 @@
     "gallery": [],
     "wilayah_id": "f9777a08-21ff-4ce3-95ff-3c3b7f367aed",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:52:03.215Z",
+    "created_at": "2026-05-11T12:52:13.947Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:52:03.215Z"
+    "modified_at": "2026-05-11T12:52:13.947Z"
   },
   {
     "id": "gereja-dukuh",
@@ -78,8 +79,8 @@
     "gallery": [],
     "wilayah_id": "ba2af62f-d480-4143-b013-8470c9d2f362",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:52:03.215Z",
+    "created_at": "2026-05-11T12:52:13.947Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:52:03.215Z"
+    "modified_at": "2026-05-11T12:52:13.947Z"
   }
 ]
