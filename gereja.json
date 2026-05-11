@@ -10,7 +10,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:36.698Z"
+    "modified_at": "2026-05-11T12:51:44.788Z"
   },
   {
     "id": "gereja-kayunan",
@@ -23,7 +23,7 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:36.698Z"
+    "modified_at": "2026-05-11T12:51:44.788Z"
   },
   {
     "id": "gereja-ngelo",
@@ -35,9 +35,9 @@
     "gallery": [],
     "wilayah_id": "2bd2c7ab-0dc0-4bf1-8cb3-8be333c90146",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:51:36.698Z",
+    "created_at": "2026-05-11T12:51:44.788Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:36.698Z"
+    "modified_at": "2026-05-11T12:51:44.788Z"
   },
   {
     "id": "gereja-karanglo",
@@ -49,9 +49,9 @@
     "gallery": [],
     "wilayah_id": "8d5250fb-50a6-4ce8-a5de-f3f13935b907",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:51:36.698Z",
+    "created_at": "2026-05-11T12:51:44.788Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:36.698Z"
+    "modified_at": "2026-05-11T12:51:44.788Z"
   },
   {
     "id": "gereja-karangkepuh",
@@ -61,10 +61,11 @@
     "kategori": "Gereja Wilayah",
     "koordinat": "https://www.google.com/maps?q=-7.712553,110.366378",
     "gallery": [],
+    "wilayah_id": "f9777a08-21ff-4ce3-95ff-3c3b7f367aed",
     "created_by": "Nicholas N. Sulaksana",
-    "created_at": "2026-05-11T12:50:50.580Z",
+    "created_at": "2026-05-11T12:51:44.788Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:36.698Z"
+    "modified_at": "2026-05-11T12:51:44.788Z"
   },
   {
     "id": "gereja-dukuh",
@@ -77,6 +78,6 @@
     "created_by": "Nicholas N. Sulaksana",
     "created_at": "2026-05-11T12:50:50.580Z",
     "modified_by": "Nicholas N. Sulaksana",
-    "modified_at": "2026-05-11T12:51:36.698Z"
+    "modified_at": "2026-05-11T12:51:44.788Z"
   }
 ]
