@@ -2,7 +2,7 @@
   "frontmatter": {
     "title": "Misa Peringatan 38 Tahun Gereja Santo Venantius Ngelo",
     "slug": "misa-peringatan-38-tahun-gereja-santo-venantius-ngelo",
-    "description": "Sleman, 12 Juni 2026. Semangat persaudaraan, saling membantu, dan bergandengan tangan yang telah menjadi cita-cita sejak awal berdirinya Gereja Santo Venantius, Paroki Santo Yohanes Paulus II Brayut, terus dijaga dan dihidupi hingga hari ini. Memasuki usia ke-38 tahun, nilai-nilai kebersamaan tersebut menjadi fondasi yang terus menguatkan langkah umat dalam membangun iman, pelayanan, dan kasih di tengah masyarakat.",
+    "description": "Sleman, 12 Juni 2026.Momentum mengenang dan bersyukur dalam menghadirkan kasih Kristus.",
     "publishedAt": "2026-07-27T02:30:44.747Z",
     "author": "Admin Paroki",
     "categories": [
@@ -11,33 +11,20 @@
     ],
     "banner": "/api/gdrive-image/1FDpQqwRSrNxye4su0fTEgbVdkP4IqcRz",
     "published": true,
-    "updatedAt": "2026-07-27T02:34:35.598Z"
+    "updatedAt": "2026-07-27T02:35:58.275Z"
   },
   "content": {
     "type": "doc",
     "content": [
       {
-        "type": "heading",
+        "type": "paragraph",
         "attrs": {
-          "textAlign": "center",
-          "level": 3
+          "textAlign": "left"
         },
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "",
-                  "fontSize": ""
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Momentum mengenang dan bersyukur dalam menghadirkan kasih Kristus."
+            "text": "Semangat persaudaraan, saling membantu, dan bergandengan tangan yang telah menjadi cita-cita sejak awal berdirinya Gereja Santo Venantius, Paroki Santo Yohanes Paulus II Brayut, terus dijaga dan dihidupi hingga hari ini. Memasuki usia ke-38 tahun, nilai-nilai kebersamaan tersebut menjadi fondasi yang terus menguatkan langkah umat dalam membangun iman, pelayanan, dan kasih di tengah masyarakat."
           }
         ]
       },
@@ -151,7 +138,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Melalui renungan Sabda, umat juga diajak merefleksikan perumpamaan Yesus tentang benih yang ditaburkan. Iman diharapkan tumbuh seperti benih yang jatuh di tanah yang subur, berakar kuat, dan menghasilkan buah yang berlimpah. Sebagaimana firman Tuhan yang disampaikan kepada Nabi Yesaya, Sabda Allah turun laksana hujan yang tidak pernah kembali dengan sia-sia, melainkan selalu melaksanakan kehendak-Nya dan menghasilkan kehidupan bagi setiap orang yang menerimanya dengan hati yang terbuka."
+            "text": "Melalui renungan Sabda, umat juga diajak merefleksikan perumpamaan Yesus tentang benih yang ditaburkan. Iman diharapkan tumbuh seperti benih yang jatuh di tanah yang subur, berakar kuat, dan menghasilkan buah yang berlimpah. Sebagaimana firman Tuhan yang disampaikan kepada Nabi Yesaya, Sabda Allah turun laksana hujan yang tidak pernah kembali dengan sia-sia, melainkan selalu melaksanakan kehendak-Nya dan menghasilkan kehidupan bagi setiap orang yang menerimanya dengan hati yang terbuka. (@ds)"
           }
         ]
       },
