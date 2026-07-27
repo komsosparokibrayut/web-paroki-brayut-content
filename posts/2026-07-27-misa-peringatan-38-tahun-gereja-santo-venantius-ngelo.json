@@ -10,7 +10,8 @@
       "Warta Paroki"
     ],
     "banner": "/api/gdrive-image/1FDpQqwRSrNxye4su0fTEgbVdkP4IqcRz",
-    "published": true
+    "published": true,
+    "updatedAt": "2026-07-27T02:33:25.425Z"
   },
   "content": {
     "type": "doc",
@@ -44,18 +45,23 @@
         "type": "paragraph",
         "attrs": {
           "textAlign": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "<iframe src=\"https://drive.google.com/file/d/17A-i7vgqLIIO8mnN9voVhaeTflmhMfO1/preview\" width=\"100%\" height=\"480\" frameborder=\"0\" allow=\"autoplay\" class=\"w-full rounded-xl my-6 border border-slate-200\"></iframe>"
-          }
-        ]
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "/api/gdrive-image/17A-i7vgqLIIO8mnN9voVhaeTflmhMfO1",
+          "alt": "",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
       },
       {
         "type": "paragraph",
@@ -85,18 +91,23 @@
         "type": "paragraph",
         "attrs": {
           "textAlign": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "<iframe src=\"https://drive.google.com/file/d/1CP9cRlUy9swIm1htjx_xCQi8YZ9CvZkj/preview\" width=\"100%\" height=\"480\" frameborder=\"0\" allow=\"autoplay\" class=\"w-full rounded-xl my-6 border border-slate-200\"></iframe>"
-          }
-        ]
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "/api/gdrive-image/1CP9cRlUy9swIm1htjx_xCQi8YZ9CvZkj",
+          "alt": "",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
       },
       {
         "type": "paragraph",
@@ -114,18 +125,23 @@
         "type": "paragraph",
         "attrs": {
           "textAlign": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "<iframe src=\"https://drive.google.com/file/d/1FpM7YedDYe4iMZI1GJYVQ-MMZaoZhEpk/preview\" width=\"100%\" height=\"480\" frameborder=\"0\" allow=\"autoplay\" class=\"w-full rounded-xl my-6 border border-slate-200\"></iframe>"
-          }
-        ]
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "/api/gdrive-image/1FpM7YedDYe4iMZI1GJYVQ-MMZaoZhEpk",
+          "alt": "",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
       },
       {
         "type": "paragraph",
@@ -143,18 +159,17 @@
         "type": "paragraph",
         "attrs": {
           "textAlign": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "<iframe src=\"https://drive.google.com/file/d/1DIrRdfoGDlQJL3towYW1NtKoU0YkiXOR/preview\" width=\"100%\" height=\"480\" frameborder=\"0\" allow=\"autoplay\" class=\"w-full rounded-xl my-6 border border-slate-200\"></iframe>"
-          }
-        ]
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "/api/gdrive-image/1DIrRdfoGDlQJL3towYW1NtKoU0YkiXOR",
+          "alt": "",
+          "title": null,
+          "width": null,
+          "height": null
+        }
       },
       {
         "type": "paragraph",
