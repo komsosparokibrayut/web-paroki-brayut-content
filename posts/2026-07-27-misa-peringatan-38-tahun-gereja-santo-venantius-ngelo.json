@@ -11,7 +11,7 @@
     ],
     "banner": "/api/gdrive-image/1FDpQqwRSrNxye4su0fTEgbVdkP4IqcRz",
     "published": true,
-    "updatedAt": "2026-07-27T02:33:25.425Z"
+    "updatedAt": "2026-07-27T02:34:35.598Z"
   },
   "content": {
     "type": "doc",
@@ -19,8 +19,8 @@
       {
         "type": "heading",
         "attrs": {
-          "textAlign": null,
-          "level": 2
+          "textAlign": "center",
+          "level": 3
         },
         "content": [
           {
