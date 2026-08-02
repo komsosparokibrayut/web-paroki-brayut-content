@@ -6,9 +6,9 @@
     "description": "Formulir Sakramen Inisiasi\n- Baptis Bayi\n- Komuni Pertama\n- Krisma/Penguatan\n- Baptis Dewasa\n- Penerimaan ",
     "category": "Inisiasi",
     "created_by": "sekpar brayut",
-    "created_at": "2026-08-02T07:54:54.588Z",
+    "created_at": "2026-08-02T07:55:19.413Z",
     "modified_by": "sekpar brayut",
-    "modified_at": "2026-08-02T07:54:54.588Z"
+    "modified_at": "2026-08-02T07:55:19.413Z"
   },
   {
     "id": "dddad0a7-e7bd-4f3b-9a25-94fc625ae2d1",
@@ -17,9 +17,9 @@
     "description": "",
     "category": "Lainnya",
     "created_by": "sekpar brayut",
-    "created_at": "2026-08-02T07:54:54.588Z",
+    "created_at": "2026-08-02T07:55:19.413Z",
     "modified_by": "sekpar brayut",
-    "modified_at": "2026-08-02T07:54:54.588Z"
+    "modified_at": "2026-08-02T07:55:19.413Z"
   },
   {
     "id": "20164350-dc78-4adb-bb67-11bc936db963",
@@ -28,9 +28,9 @@
     "description": "",
     "category": "Pelayanan",
     "created_by": "sekpar brayut",
-    "created_at": "2026-08-02T07:54:54.588Z",
+    "created_at": "2026-08-02T07:55:19.413Z",
     "modified_by": "sekpar brayut",
-    "modified_at": "2026-08-02T07:54:54.588Z"
+    "modified_at": "2026-08-02T07:55:19.413Z"
   },
   {
     "id": "5334ad2b-92af-42eb-9a69-27260378603b",
@@ -39,8 +39,19 @@
     "description": "Formulir pelayanan Ekaristi dengan Romo tamu/Romo diluar Paroki Brayut",
     "category": "Pelayanan",
     "created_by": "sekpar brayut",
-    "created_at": "2026-08-02T07:54:54.588Z",
+    "created_at": "2026-08-02T07:55:19.413Z",
     "modified_by": "sekpar brayut",
-    "modified_at": "2026-08-02T07:54:54.588Z"
+    "modified_at": "2026-08-02T07:55:19.413Z"
+  },
+  {
+    "id": "369a6385-20fe-48c3-9909-673a96a1d0d4",
+    "title": "Formulir Pendaftaran Anggota BKSY",
+    "url": "https://drive.google.com/file/d/1GlNqFlh8iIgGfChsgdBcyhH8wu-hqRmH/view?usp=sharing",
+    "description": "",
+    "category": "Pelayanan",
+    "created_by": "sekpar brayut",
+    "created_at": "2026-08-02T07:55:19.413Z",
+    "modified_by": "sekpar brayut",
+    "modified_at": "2026-08-02T07:55:19.413Z"
   }
 ]
