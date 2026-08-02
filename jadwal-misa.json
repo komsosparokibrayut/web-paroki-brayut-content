@@ -8,9 +8,9 @@
       "suspendedReason": "Ditiadakan untuk sementara waktu karena terdapat pembangunan gereja.",
       "weeklySchedules": [],
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     },
     {
       "id": "gereja-kayunan",
@@ -32,9 +32,9 @@
       ],
       "isSuspended": false,
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     },
     {
       "id": "gereja-karanglo",
@@ -92,7 +92,7 @@
         {
           "week": 5,
           "day": "Sabtu",
-          "time": "16.00",
+          "time": "17.00",
           "bahasa": "Indonesia"
         },
         {
@@ -103,9 +103,9 @@
         }
       ],
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     },
     {
       "id": "gereja-karangkepuh",
@@ -126,9 +126,9 @@
         }
       ],
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     },
     {
       "id": "gereja-dukuh",
@@ -149,9 +149,9 @@
         }
       ],
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     },
     {
       "id": "gereja-ngelo",
@@ -172,9 +172,9 @@
         }
       ],
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     }
   ],
   "specialMasses": [
@@ -185,9 +185,9 @@
       "location": "Gereja St. Yosef Karanglo",
       "description": "Misa Jumat Pertama dengan jadwal berpindah setiap bulan, pukul 18.00 WIB bahasa Indonesia.",
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     },
     {
       "id": "misa-harian",
@@ -196,9 +196,9 @@
       "location": "Gereja St. Yosef Karanglo",
       "description": "Misa harian di Karanglo pukul 05.30 bahasa Indonesia.",
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:38:11.882Z",
+      "created_at": "2026-08-02T07:38:15.709Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:38:11.882Z"
+      "modified_at": "2026-08-02T07:38:15.709Z"
     }
   ]
 }
