@@ -6,7 +6,11 @@
       "location": "Tambakrejo, Sariharjo, Ngaglik, Sleman",
       "isSuspended": true,
       "suspendedReason": "Ditiadakan untuk sementara waktu karena terdapat pembangunan gereja.",
-      "weeklySchedules": []
+      "weeklySchedules": [],
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     },
     {
       "id": "gereja-kayunan",
@@ -16,7 +20,7 @@
         {
           "week": 1,
           "day": "Sabtu",
-          "time": "16.00",
+          "time": "17.00",
           "bahasa": "Indonesia"
         },
         {
@@ -26,7 +30,11 @@
           "bahasa": "Jawa"
         }
       ],
-      "isSuspended": false
+      "isSuspended": false,
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     },
     {
       "id": "gereja-karanglo",
@@ -93,7 +101,11 @@
           "time": "07.30",
           "bahasa": "Jawa"
         }
-      ]
+      ],
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     },
     {
       "id": "gereja-karangkepuh",
@@ -112,7 +124,11 @@
           "time": "17.00",
           "bahasa": "Jawa"
         }
-      ]
+      ],
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     },
     {
       "id": "gereja-dukuh",
@@ -131,7 +147,11 @@
           "time": "18.00",
           "bahasa": "Indonesia"
         }
-      ]
+      ],
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     },
     {
       "id": "gereja-ngelo",
@@ -150,7 +170,11 @@
           "time": "18.00",
           "bahasa": "Jawa"
         }
-      ]
+      ],
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     }
   ],
   "specialMasses": [
@@ -159,14 +183,22 @@
       "name": "Misa Jumat Pertama",
       "time": "Jumat, 6 Maret 2026 Pukul 18.00 WIB",
       "location": "Gereja St. Yosef Karanglo",
-      "description": "Misa Jumat Pertama dengan jadwal berpindah setiap bulan, pukul 18.00 WIB bahasa Indonesia."
+      "description": "Misa Jumat Pertama dengan jadwal berpindah setiap bulan, pukul 18.00 WIB bahasa Indonesia.",
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     },
     {
       "id": "misa-harian",
       "name": "Misa Harian",
       "time": "05.30 WIB",
       "location": "Gereja St. Yosef Karanglo",
-      "description": "Misa harian di Karanglo pukul 05.30 bahasa Indonesia."
+      "description": "Misa harian di Karanglo pukul 05.30 bahasa Indonesia.",
+      "created_by": "sekpar brayut",
+      "created_at": "2026-08-02T07:36:11.953Z",
+      "modified_by": "sekpar brayut",
+      "modified_at": "2026-08-02T07:36:11.953Z"
     }
   ]
 }
