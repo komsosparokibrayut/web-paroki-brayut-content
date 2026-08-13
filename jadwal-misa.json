@@ -9,8 +9,8 @@
       "weeklySchedules": [],
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     },
     {
       "id": "gereja-kayunan",
@@ -33,8 +33,8 @@
       "isSuspended": false,
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     },
     {
       "id": "gereja-karanglo",
@@ -104,8 +104,8 @@
       ],
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     },
     {
       "id": "gereja-karangkepuh",
@@ -127,8 +127,8 @@
       ],
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     },
     {
       "id": "gereja-dukuh",
@@ -150,8 +150,8 @@
       ],
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     },
     {
       "id": "gereja-ngelo",
@@ -173,22 +173,23 @@
       ],
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     }
   ],
   "specialMasses": [
     {
       "id": "jumat-pertama",
       "name": "Misa Jumat Pertama Bulan September",
-      "time": "Jumat, 4 Maret 2026 Pukul 18.00 WIB",
+      "time": "18.00 WIB",
       "location": "Gereja St. Yosef Karanglo",
       "description": "Misa Jumat Pertama dengan jadwal berpindah setiap bulan, pukul 18.00 WIB bahasa Indonesia.",
       "date": "2026-09-04",
-      "created_by": "sekpar brayut",
-      "created_at": "2026-08-13T05:13:57.552Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "recurrence": "first-friday",
+      "created_by": "Nicholas N. Sulaksana",
+      "created_at": "2026-08-13T05:17:03.324Z",
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     },
     {
       "id": "misa-harian",
@@ -198,8 +199,8 @@
       "description": "Misa harian di Karanglo pukul 05.30 bahasa Indonesia.",
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
-      "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-13T05:13:57.552Z"
+      "modified_by": "Nicholas N. Sulaksana",
+      "modified_at": "2026-08-13T05:17:03.324Z"
     }
   ]
 }
