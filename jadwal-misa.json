@@ -10,7 +10,7 @@
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     },
     {
       "id": "gereja-kayunan",
@@ -34,7 +34,7 @@
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     },
     {
       "id": "gereja-karanglo",
@@ -105,7 +105,7 @@
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     },
     {
       "id": "gereja-karangkepuh",
@@ -128,7 +128,7 @@
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     },
     {
       "id": "gereja-dukuh",
@@ -151,7 +151,7 @@
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     },
     {
       "id": "gereja-ngelo",
@@ -174,20 +174,21 @@
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     }
   ],
   "specialMasses": [
     {
       "id": "jumat-pertama",
-      "name": "Misa Jumat Pertama",
-      "time": "Jumat, 6 Maret 2026 Pukul 18.00 WIB",
+      "name": "Misa Jumat Pertama Bulan September",
+      "time": "Jumat, 4 Maret 2026 Pukul 18.00 WIB",
       "location": "Gereja St. Yosef Karanglo",
       "description": "Misa Jumat Pertama dengan jadwal berpindah setiap bulan, pukul 18.00 WIB bahasa Indonesia.",
+      "date": "2026-09-04",
       "created_by": "sekpar brayut",
-      "created_at": "2026-08-02T07:40:03.993Z",
+      "created_at": "2026-08-13T05:13:57.552Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     },
     {
       "id": "misa-harian",
@@ -198,7 +199,7 @@
       "created_by": "sekpar brayut",
       "created_at": "2026-08-02T07:40:03.993Z",
       "modified_by": "sekpar brayut",
-      "modified_at": "2026-08-02T07:40:03.993Z"
+      "modified_at": "2026-08-13T05:13:57.552Z"
     }
   ]
 }
